@@ -1,0 +1,29 @@
+{
+  "name": "risus-thai",
+  "version": "1.0.0",
+  "description": "An online documentation for Risus: The Anthing RPG",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev content",
+    "build": "vuepress build content"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pume-p/Risus-RPG.git"
+  },
+  "keywords": [
+    "risus",
+    "trpg",
+    "rpg",
+    "srd"
+  ],
+  "author": "pume_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pume-p/Risus-RPG/issues"
+  },
+  "homepage": "https://github.com/pume-p/Risus-RPG#readme",
+  "devDependencies": {
+    "vuepress-vite": "^2.0.0-beta.49"
+  }
+}
