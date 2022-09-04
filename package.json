@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pume-p/Risus-RPG.git"
+    "url": "git+https://github.com/pume-p/risus-rpg.git"
   },
   "keywords": [
     "risus",
@@ -20,9 +20,9 @@
   "author": "pume_",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pume-p/Risus-RPG/issues"
+    "url": "https://github.com/pume-p/risus-rpg/issues"
   },
-  "homepage": "https://github.com/pume-p/Risus-RPG#readme",
+  "homepage": "https://github.com/pume-p/risus-rpg#readme",
   "devDependencies": {
     "vuepress-theme-hope": "^2.0.0-beta.91",
     "vuepress-vite": "^2.0.0-beta.49"
