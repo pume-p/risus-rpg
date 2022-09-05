@@ -1,2 +1,11 @@
 $theme-color: #882880;
-.site-name {display: none;}
+.navbar {
+    .site-name {
+        display: none;
+    }
+    .logo {
+        @media (max-width:495px) { 
+            display: none;
+        }
+    }
+}

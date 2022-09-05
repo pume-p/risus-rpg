@@ -16,9 +16,6 @@ export default defineUserConfig({
   },
 
 theme: hopeTheme({
-    darkmode: 'toggle',
-    iconAssets: 'fontawesome',
-    backToTop: false,
     navbar: ["/rules/README.md", "/bot/README.md"],
     sidebar: {
       "/rules/": "structure",
@@ -41,6 +38,9 @@ theme: hopeTheme({
       copyCode: false,
       git: false,
       prismjs: false,
-    }
+    },
+    backToTop: false,
+    darkmode: 'toggle',
+    iconAssets: 'fontawesome',
   })
 })
