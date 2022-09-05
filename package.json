@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/pume-p/risus-rpg#readme",
   "devDependencies": {
-    "font-awesome": "^4.7.0",
     "vuepress-theme-hope": "^2.0.0-beta.91",
     "vuepress-vite": "^2.0.0-beta.49"
   }
