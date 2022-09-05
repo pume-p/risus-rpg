@@ -15,12 +15,19 @@ export default defineUserConfig({
     },
   },
 
-  theme: hopeTheme({
-  darkmode: 'toggle',
-
+theme: hopeTheme({
+    darkmode: 'toggle',
+    iconAssets: 'fontawesome',
+    backToTop: false,
+    navbar: ["/rules/README.md", "/bot/README.md"],
+    sidebar: {
+      "/rules/": "structure",
+      "/bot/": "structure",
+    },
+    pageInfo: ["Author", "Original", "Date", "Category", "Tag"],
     locales: {
       "/": {
-        logo: "/logo.png",
+        logo: "/side-enlogo.png",
       },
       "/th/": {
         logo: "/logo.png",
@@ -30,5 +37,10 @@ export default defineUserConfig({
         }
       },
     },
-  }),
+    plugins: {
+      copyCode: false,
+      git: false,
+      prismjs: false,
+    }
+  })
 })
