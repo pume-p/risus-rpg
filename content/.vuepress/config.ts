@@ -38,6 +38,7 @@ theme: hopeTheme({
       copyCode: false,
       git: false,
       prismjs: false,
+      photoSwipe: false
     },
     backToTop: false,
     darkmode: 'toggle',
