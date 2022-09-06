@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-535b316b","path":"/bot.html","title":"Discord Bot","lang":"en-US","frontmatter":{"title":"Discord Bot","icon":"fa-solid fa-robot"},"excerpt":"","headers":[],"readingTime":{"minutes":0.4,"words":121},"filePathRelative":"bot.md"}');export{t as data};
