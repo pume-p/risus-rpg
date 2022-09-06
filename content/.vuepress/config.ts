@@ -16,7 +16,7 @@ export default defineUserConfig({
   },
 
 theme: hopeTheme({
-    navbar: [/*"/rules/README.md",*/ "/bot.md"],
+    navbar: ["/rules/README.md", "/bot.md"],
     sidebar: {
     },
     pageInfo: ["Author", "Original", "Date", "Category", "Tag"],
