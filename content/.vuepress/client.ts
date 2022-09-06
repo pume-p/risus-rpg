@@ -29,11 +29,11 @@ export default defineClientConfig({
 			profiles: {
 				user: {
 					author: 'User',
-					avatar: '/user1.jpg',
+					avatar: 'https://media.discordapp.net/attachments/356304198398115841/1016633827495510016/FOc7efI5_400x400.jpg',
 				},
 				bot: {
 					author: 'Risus Bot',
-					avatar: '/bot1.png',
+					avatar: 'https://media.discordapp.net/attachments/356304198398115841/998813093960368200/4.png',
 					bot: true,
 				},
 			},

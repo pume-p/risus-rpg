@@ -74,9 +74,4 @@ features:
     icon: more
     details: Including icon support, path navigation, footer support, fullscreen button, blog homepage, etc.
     link: /guide/feature/
-
-copyright: false
-footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 ---
-
-a
